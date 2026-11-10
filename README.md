@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://kipuvia.com">
+    <img src="assets/banner.png" alt="Kipuvia — Agentes de IA, automatización y Big Data" width="100%">
+  </a>
+</p>
+
 # Hola, soy Davinson Montoya 👋
 
 ### CEO & Arquitecto de Soluciones en [Kipuvia](https://kipuvia.com)
